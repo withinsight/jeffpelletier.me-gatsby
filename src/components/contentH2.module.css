@@ -1,0 +1,6 @@
+/* ----- Content H2 Component ----- */
+
+.Content-h2 {
+    color: var(--text-secondary);
+    font-size: 3em;
+}

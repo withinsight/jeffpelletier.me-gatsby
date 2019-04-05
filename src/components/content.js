@@ -1,5 +1,8 @@
 import React from "react"
+import styles from "./content.module.css"
 
-export default () => (
-    <section className="Content"></section>
+export default ({ children }) => (
+    <section className={styles.Content}>
+        {children}
+    </section>
 )
