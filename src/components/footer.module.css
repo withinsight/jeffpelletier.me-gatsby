@@ -1,0 +1,6 @@
+/* ----- Footer Component ----- */
+
+.Footer {
+    border-top: 6px solid var(--primary-dark);
+    padding: 10px 20px;
+}

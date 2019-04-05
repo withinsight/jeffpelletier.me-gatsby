@@ -1,0 +1,16 @@
+/* ----- Secondary Nav Component ----- */
+
+.NavSecondary {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.NavSecondary-link {
+    border: 1px solid transparent;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.NavSecondary-link:hover {
+    border: 1px solid var(--primary);
+}
