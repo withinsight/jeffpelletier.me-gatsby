@@ -1,0 +1,52 @@
+:root {
+    --primary-dark:     #689f38;
+    --primary:          #8bc34a;
+    --primary-light:    #dcedc8;
+    --accent:           #448aff;
+    --text-primary:     #212121;
+    --text-secondary:   #757575;
+    --divider:          #bdbdbd;
+    --text-light:       #f7f7f7;
+    --absolute:         #fff;
+}
+
+/* ----- Element Selectors ----- */
+
+body {
+    background-color: var(--absolute);
+    color: var(--text-primary);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    margin: 0 0 10px;
+}
+
+a {
+    color: var(--accent);
+}
+
+a:hover {
+    color: var(--primary-dark);
+}
+
+p {
+    line-height: 1.5em;
+}
+
+nav ul,
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin-top: 0;
+}
