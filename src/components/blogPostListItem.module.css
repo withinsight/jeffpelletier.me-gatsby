@@ -1,0 +1,6 @@
+/* ----- BlogPostList Component ----- */
+
+.BlogPostList-pubDate {
+    color: var(--text-secondary);
+    font-size: 0.8em;
+}
