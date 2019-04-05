@@ -1,9 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
-import { Resume } from "./Pelletier-Jeffrey.pdf"
+// import { Resume } from "./Pelletier-Jeffrey.pdf"
 import styles from "./nav.module.css"
-
-console.log('resume:' +  Resume);
 
 export default () => (
     <nav className={styles.NavPrimary}>

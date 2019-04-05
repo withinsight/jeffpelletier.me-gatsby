@@ -1,0 +1,24 @@
+/* ----- Card Component ----- */
+
+@media screen and (min-width: 650px) {
+    .Card-content {
+        display: flex;
+    }
+}
+
+.Card-image {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+@media screen and (min-width: 650px) {
+    .Card-image {
+        height: 250px;
+        margin-right: 20px;
+        width: 400px;
+    }
+
+    .Card-image--right {
+        order: 2;
+    }
+}

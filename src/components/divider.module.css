@@ -1,0 +1,11 @@
+/* ----- Divider Component ----- */
+
+.Divider {
+    background-color: var(--absolute);
+    border-top: 2px solid var(--primary);
+    border-right: 0;
+    border-bottom: 1px solid var(--primary);
+    border-left: 0;
+    height: 1px;
+    margin: 20px 0 40px;
+}
