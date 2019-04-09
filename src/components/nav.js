@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-// import { Resume } from "./Pelletier-Jeffrey.pdf"
+import resume from "../assets/Pelletier-Jeffrey.pdf"
 import styles from "./nav.module.css"
 
 export default () => (
@@ -15,10 +15,9 @@ export default () => (
             <li className={styles.NavPrimaryItem}>
                 <Link to="radical" className={styles.NavPrimaryLink}>Radical</Link>
             </li>
-            {/* <li className={styles.NavPrimaryItem}>
-                <a className={styles.NavPrimaryLink} href={Resume}>Resume</a>
-                <Link to={Resume} className={styles.NavPrimaryLink}>Resume</Link>
-            </li> */}
+            <li className={styles.NavPrimaryItem}>
+                <a className={styles.NavPrimaryLink} href={resume}>Resume</a>
+            </li>
         </ul>
     </nav>
 )
