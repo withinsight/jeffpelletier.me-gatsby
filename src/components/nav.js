@@ -7,13 +7,13 @@ export default () => (
     <nav className={styles.NavPrimary}>
         <ul className={styles.NavPrimaryList}>
             <li className={styles.NavPrimaryItem}>
-                <Link to="work" className={styles.NavPrimaryLink}>Work</Link>
+                <Link to="/work" className={styles.NavPrimaryLink}>Work</Link>
             </li>
             <li className={styles.NavPrimaryItem}>
-                <Link to="writing" className={styles.NavPrimaryLink}>Writing</Link>
+                <Link to="/writing" className={styles.NavPrimaryLink}>Writing</Link>
             </li>
             <li className={styles.NavPrimaryItem}>
-                <Link to="radical" className={styles.NavPrimaryLink}>Radical</Link>
+                <Link to="/radical" className={styles.NavPrimaryLink}>Radical</Link>
             </li>
             <li className={styles.NavPrimaryItem}>
                 <a className={styles.NavPrimaryLink} href={resume}>Resume</a>

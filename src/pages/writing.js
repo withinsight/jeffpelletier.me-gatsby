@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import ContentH2 from "../components/contenth2"
+import ContentH2 from "../components/contentH2"
 import Divider from "../components/divider"
 import BlogPostHighlight from "../components/blogPostHighlight"
 import BlogPostListItem from "../components/blogPostListItem"
