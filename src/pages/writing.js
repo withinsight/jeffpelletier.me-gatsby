@@ -20,8 +20,9 @@ export default () => (
             postTitle="Design Systems Should be JavaScript Framework Agnostic"
             pubDate="September 3, 2018">
             <ul className="BlogPostHighlight-list">
-                <li>Over 2k views on Medium</li>
+                <li>Over 4k views on Medium</li>
                 <li>Applauded by Jina Anne</li>
+                <li>Stuart Robson mentioned at <a data-hook="link-external" href="https://noti.st/sturobson/yc1gwN/design-systems-and-front-end-architecture#sw9OLnn" rel="external">Colchester Digital Conference</a></li>
             </ul>
         </BlogPostHighlight>
 
@@ -30,7 +31,7 @@ export default () => (
             postTitle="Front-end Roles and Responsibilities"
             pubDate="January 7, 2017">
             <ul className="BlogPostHighlight-list">
-                <li>Over 18k views on Medium</li>
+                <li>Over 20k views on Medium</li>
                 <li>Applauded by Chris Coyier</li>
                 <li>Lara Schenck mentioned in her <a href="https://github.com/laras126/front-end-discourse" rel="external" data-hook="link-external">Frontend Discourse repo</a></li>
                 <li>Chris Coyier mentioned in his <a href="https://css-tricks.com/getting-nowhere-job-titles/" rel="external" data-hook="link-external">Getting Nowhere on Job Titles</a> blog post</li>
@@ -42,8 +43,8 @@ export default () => (
             postTitle="The Front-end Spectrum"
             pubDate="November 1, 2015">
             <ul className="BlogPostHighlight-list">
-                <li>Over 16k views on Medium</li>
-                <li>Katie Sylor-Miller from Etsy mentioned at <a href="https://vimeo.com/181329000" rel="external" data-hook="link-external">Frontend Conf Zurich</a></li>
+                <li>Over 18k views on Medium</li>
+                <li>Katie Sylor-Miller mentioned at <a href="https://vimeo.com/181329000" rel="external" data-hook="link-external">Frontend Conf Zurich</a></li>
                 <li>Cody Lindley included in the "Tools" section of the <a href="https://frontendmasters.com/books/front-end-handbook/2017/tools.html" rel="external" data-hook="link-external">Frontend Handbook</a></li>
             </ul>
         </BlogPostHighlight>
