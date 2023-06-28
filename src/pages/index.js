@@ -5,9 +5,13 @@ import ContentH2 from "../components/contentH2"
 
 export default () => (
     <Layout>
-        <ContentH2 title="UX Designer &amp; Developer" />
+        <ContentH2 title="Design Systems Technologist" />
 
-        <p>I'm a designer who's been coding professionally for over 15 years. <br /> I love technology, and write about it (when lightning strikes).</p>
+        <p>I'm a hybrid who's specialized in web-based design systems for the past 4 years.</p>
+
+        <p>During this time, I've built automated design token services, contributed to building Lit Web Components, and gained a passion for improving team operations.</p>
+
+        <p>On the latter point, I implemented a feature workflow for design systems team work, collaborated on component specs for engineering handoff, owned metrics for the design systems team, and advocated for design systems internally by hosting watch parties.</p>
 
         <p>I've been experimenting and built 3 different versions of my portfolio. You're currently viewing the <a data-hook="link-external" href="https://www.gatsbyjs.org/" rel="external">Gatsby</a> version.</p>
 
